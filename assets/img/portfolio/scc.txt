@@ -1,2 +1,0 @@
-Scary Chain Capital, or SCC, is a FaaS protocol on the Fantom Opera and Ethereum blockchain. FaaS stands for Farming as a Service. It is the process of investing across the cypto/DeFi ecosystem (short and long term) with the specific purpose to produce yield off of those investments
-Build SCC token which conforms to the ERC20 specification and Developed Cryptocurrency system with SCC Token and Wallet
