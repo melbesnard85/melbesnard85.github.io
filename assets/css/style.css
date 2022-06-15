@@ -135,7 +135,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 0;
   background: rgba(0, 0, 0, 0.9);
 }
-#header.header-top .social-links, #header.header-top h2 {
+#header.header-top .social-links, #header.header-top h2, #header.header-top p {
   display: none;
 }
 #header.header-top img {
@@ -551,6 +551,13 @@ section .container {
 /*--------------------------------------------------------------
 # Resume
 --------------------------------------------------------------*/
+.resume-p {
+  display: inline;
+}
+.resume-download {
+  display: inline;
+  float: right;
+}
 .resume .resume-title {
   font-size: 26px;
   font-weight: 700;
